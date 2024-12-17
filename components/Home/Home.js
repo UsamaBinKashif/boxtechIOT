@@ -8,7 +8,7 @@ import Sal from "sal.js";
 import PricingData from "../../data/pricing.json";
 
 import SplitImg from "../../public/images/split/split-2.png";
-import SplitLogo from "../../public/images/logo/LOGO.png";
+import SplitLogo from "../../public/images/logo/logo.png";
 import DarkSplitImg from "../../public/images/light/split/split-2.png";
 import DarkSplitLogo from "../../public/images/light/split/split-2-logo.png";
 import bannerImg from "../../public/images/bg/slider-main-image.png";

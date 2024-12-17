@@ -7,7 +7,7 @@ import { useRouter, usePathname } from "next/navigation";
 
 import { useAppContext } from "@/context/Context";
 
-import logo from "../../public/images/logo/LOGO.png";
+import logo from "../../public/images/logo/logo.png";
 // import logoDark from "../../public/images/light/logo/logo-dark.png";
 import Nav from "./Nav";
 // import DarkSwitch from "./dark-switch";
