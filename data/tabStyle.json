@@ -1,0 +1,161 @@
+{
+  "TabStyleOne": [
+    {
+      "title": "Innovative software platform enabling productivity, efficiency, and digital transformation globally",
+      "img": "/images/generator-img/chat-export-vedio.png",
+      "menuId": "video-generator",
+      "text": "Software Platform",
+      "target": "video-generate",
+      "iconImg": "",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Productivity Tools"
+        },
+        {
+          "text": "Automation Features"
+        },
+        {
+          "text": "Data Analytics"
+        },
+        {
+          "text": "Scalability"
+        }
+      ]
+    },
+    {
+      "title": "Smart IoT platform enabling connectivity, automation, and real-time insights globally.",
+      "img": "/images/generator-img/chat-export-audio.png",
+      "menuId": "audio-generator",
+      "text": "IOT platforms",
+      "target": "audio-generate",
+      "iconImg": "/images/icons/audio-g.png",
+      "isSelect": true,
+      "subItem": [
+        {
+          "text": "Device Connectivity"
+        },
+        {
+          "text": "Data Processing"
+        },
+        {
+          "text": "Automation"
+        },
+        {
+          "text": "Scalability"
+        }
+      ]
+    },
+    {
+      "title": "IoT devices enable smart automation, connectivity, and real-time data exchange",
+      "img": "/images/generator-img/chat-export-photo.png",
+      "menuId": "photo-generator",
+      "text": "IOT Devices",
+      "target": "photo-generate",
+      "iconImg": "/images/icons/photo-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Connectivity"
+        },
+        {
+          "text": "Sensors"
+        },
+        {
+          "text": "Automation"
+        },
+        {
+          "text": "Integration"
+        }
+      ]
+    },
+    {
+      "title": " IoT sensors collect data for monitoring, analysis, and smart automation.",
+      "img": "/images/generator-img/chat-export.png",
+      "menuId": "text-generator",
+      "text": "",
+      "target": "text-generate",
+      "iconImg": "/images/icons/text-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Data Collection"
+        },
+        {
+          "text": "Real-Time Monitoring"
+        },
+        {
+          "text": "Energy Efficiency"
+        },
+        {
+          "text": "Integration"
+        }
+      ]
+    },
+    {
+      "title": "Fleet management devices optimize tracking, efficiency, and operational control.",
+      "img": "/images/generator-img/chat-export-code.png",
+      "menuId": "code-generator",
+      "text": "Devices",
+      "target": "code-generate",
+      "iconImg": "/images/icons/code-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "GPS Trackers"
+        },
+        {
+          "text": "Telematics Sensors"
+        },
+        {
+          "text": "Dash Cameras"
+        },
+        {
+          "text": "Asset Trackers"
+        }
+      ]
+    }
+  ],
+  "advanceTab": [
+    {
+      "tabId": "home",
+      "target": "home-tab",
+      "isSelect": true,
+      "menuText": "Connect with IOT",
+      "img": "/images/split/split-1.png",
+      "subTitle": "How it work",
+      "title": "Connect with IOT",
+      "desc": "AI-powered IoT devices enable smarter automation, analytics, and decision-making."
+    },
+    {
+      "tabId": "profile",
+      "target": "profile-tab",
+      "isSelect": false,
+      "menuText": "IOT platforms",
+      "img": "/images/split/split-4.png",
+      "subTitle": "Exploring IOT platforms",
+      "title": "Streamline Your IOT Workflow",
+      "desc": " IoT platforms enable seamless device management, data processing, and automation"
+    },
+    {
+      "tabId": "contact",
+      "target": "contact-tab",
+      "isSelect": false,
+      "menuText": "IOT Devices",
+      "img": "/images/split/split-3.png",
+      "subTitle": "Navigating through IOT devices",
+      "title": "Protecting Your Digital Presence",
+      "desc": "IoT devices collect, transmit data, enabling automation and real-time insights"
+    },
+    {
+      "tabId": "contact",
+      "target": "contact-tab",
+      "isSelect": false,
+      "menuText": "IOT Sensors",
+      "img": "/images/split/split-5.png",
+      "subTitle": "IOT sensors",
+      "title": "IOT Sensors",
+      "desc": "IoT sensors capture real-time data for monitoring, analysis, and automation."
+    }
+  ]
+}

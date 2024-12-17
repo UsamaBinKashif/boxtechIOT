@@ -1,0 +1,55 @@
+{
+  "footer": [
+    {
+      "links": [
+        {
+          "title": "Qucik Links",
+          "innerItem": [
+            {
+              "link": "#",
+              "text": "About_us"
+            },
+            {
+              "link": "/blog",
+              "text": "Vision"
+            },
+            {
+              "link": "/contact",
+              "text": "Mission"
+            },
+            {
+              "link": "/utilize",
+              "text": "Privacy Policy"
+            } 
+          ]
+        }
+      ],
+      "services": [
+        {
+          "title": "Services",
+          "innerItem": [
+            {
+              "link": "/image-generator",
+              "text": "IOT Platforms"
+            },
+            {
+              "link": "/vedio-generator",
+              "text": "IOT Devices"
+            },
+            {
+              "link": "/text-generator",
+              "text": "IOT Sensors"
+            } 
+          ]
+        }
+      ],
+      "contact": [
+        {
+          "location": "8819 Ohio St. South Gate, North America, USA",
+          "mail": "example@domain.com",
+          "number": "1 386-688-3295"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "testimonial": [
+    {
+      "isActive": true,
+      "isBorder": true,
+      "desc": "Improved operational efficiency with real-time data and seamless connectivity.",
+      "name": "Guy Hawkins",
+      "post": "Nursing Assistant",
+      "userImg": "/images/team/team-02sm.jpg",
+      "brandImg": "/images/brand/brand-t.png",
+      "img": "/images/service/bg-testimonial.png",
+      "imgHover": "/images/service/bg-testimonial-hover.png",
+
+      "lightImg": "/images/light/service/bg-testimonial.png",
+      "lightImgHover": "/images/light/service/bg-testimonial-hover.png"
+    },
+    {
+      "desc": "Easy installation and accurate data integration with other smart systems.",
+      "name": "Guy Hawkins",
+      "post": "Nursing Assistant",
+      "userImg": "/images/team/team-02sm.jpg",
+      "brandImg": "/images/brand/brand-t.png",
+      "img": "/images/service/bg-testimonial.png",
+      "imgHover": "/images/service/bg-testimonial-hover.png",
+
+      "lightImg": "/images/light/service/bg-testimonial.png",
+      "lightImgHover": "/images/light/service/bg-testimonial-hover.png"
+    },
+    {
+      "desc": "Real-time vehicle tracking, reducing costs and improving safety.",
+      "name": "Guy Hawkins",
+      "post": "Nursing Assistant",
+      "userImg": "/images/team/team-02sm.jpg",
+      "brandImg": "/images/brand/brand-t.png",
+      "img": "/images/service/bg-testimonial.png",
+      "imgHover": "/images/service/bg-testimonial-hover.png",
+
+      "lightImg": "/images/light/service/bg-testimonial.png",
+      "lightImgHover": "/images/light/service/bg-testimonial-hover.png"
+    },
+    {
+      "isActive": true,
+      "desc": "All-in-one solution for device management, analytics, and automation",
+      "name": "Guy Hawkins",
+      "post": "Nursing Assistant",
+      "userImg": "/images/team/team-02sm.jpg",
+      "brandImg": "/images/brand/brand-t.png",
+      "img": "/images/service/bg-testimonial.png",
+      "imgHover": "/images/service/bg-testimonial-hover.png",
+
+      "lightImg": "/images/light/service/bg-testimonial.png",
+      "lightImgHover": "/images/light/service/bg-testimonial-hover.png"
+    },
+    {
+      "desc": "Intuitive interface with powerful real-time analytics for better decision-making.",
+      "name": "Guy Hawkins",
+      "post": "Nursing Assistant",
+      "userImg": "/images/team/team-02sm.jpg",
+      "brandImg": "/images/brand/brand-t.png",
+      "img": "/images/service/bg-testimonial.png",
+      "imgHover": "/images/service/bg-testimonial-hover.png",
+
+      "lightImg": "/images/light/service/bg-testimonial.png",
+      "lightImgHover": "/images/light/service/bg-testimonial-hover.png"
+    },
+    {
+      "desc": "Highly accurate sensors with minimal maintenance for continuous monitoring.",
+      "name": "Guy Hawkins",
+      "post": "Nursing Assistant",
+      "userImg": "/images/team/team-02sm.jpg",
+      "brandImg": "/images/brand/brand-t.png",
+      "img": "/images/service/bg-testimonial.png",
+      "imgHover": "/images/service/bg-testimonial-hover.png",
+
+      "lightImg": "/images/light/service/bg-testimonial.png",
+      "lightImgHover": "/images/light/service/bg-testimonial-hover.png"
+    }
+  ]
+}
